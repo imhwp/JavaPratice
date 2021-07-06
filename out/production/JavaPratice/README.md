@@ -1,0 +1,2 @@
+# JavaPratice
+Basic java knowledge
