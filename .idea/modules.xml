@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://E:/论文/HBase-OSS/HBase-OSS.iml" filepath="E:/论文/HBase-OSS/HBase-OSS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaPratice.iml" filepath="$PROJECT_DIR$/.idea/JavaPratice.iml" />
+      <module fileurl="file://E:/论文/HBase-OSS/oss-common/oss-common.iml" filepath="E:/论文/HBase-OSS/oss-common/oss-common.iml" />
+      <module fileurl="file://E:/论文/HBase-OSS/oss-core/oss-core.iml" filepath="E:/论文/HBase-OSS/oss-core/oss-core.iml" />
+      <module fileurl="file://E:/论文/HBase-OSS/oss-mybatis/oss-mybatis.iml" filepath="E:/论文/HBase-OSS/oss-mybatis/oss-mybatis.iml" />
+      <module fileurl="file://E:/论文/HBase-OSS/oss-sdk/oss-sdk.iml" filepath="E:/论文/HBase-OSS/oss-sdk/oss-sdk.iml" />
+      <module fileurl="file://E:/论文/HBase-OSS/oss-server/oss-server.iml" filepath="E:/论文/HBase-OSS/oss-server/oss-server.iml" />
+      <module fileurl="file://E:/论文/HBase-OSS/oss-web/oss-web.iml" filepath="E:/论文/HBase-OSS/oss-web/oss-web.iml" />
     </modules>
   </component>
 </project>

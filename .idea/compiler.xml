@@ -7,10 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JavaPratice" />
+        <module name="oss-common" />
+        <module name="oss-core" />
+        <module name="oss-mybatis" />
+        <module name="oss-sdk" />
+        <module name="oss-server" />
+        <module name="oss-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="HBase-OSS" target="1.8" />
       <module name="JavaPratice" target="8" />
+      <module name="oss-common" target="1.8" />
+      <module name="oss-core" target="1.8" />
+      <module name="oss-mybatis" target="1.8" />
+      <module name="oss-sdk" target="1.8" />
+      <module name="oss-server" target="1.8" />
+      <module name="oss-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

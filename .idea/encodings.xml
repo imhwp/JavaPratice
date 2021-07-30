@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://E:/论文/HBase-OSS" charset="UTF-8" />
+    <file url="file://E:/论文/HBase-OSS/oss-common" charset="UTF-8" />
+    <file url="file://E:/论文/HBase-OSS/oss-core" charset="UTF-8" />
+    <file url="file://E:/论文/HBase-OSS/oss-mybatis" charset="UTF-8" />
+    <file url="file://E:/论文/HBase-OSS/oss-sdk" charset="UTF-8" />
+    <file url="file://E:/论文/HBase-OSS/oss-server" charset="UTF-8" />
+    <file url="file://E:/论文/HBase-OSS/oss-web" charset="UTF-8" />
+  </component>
+</project>
